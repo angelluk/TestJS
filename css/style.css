@@ -1,0 +1,132 @@
+* {
+	box-sizing:border-box;
+}
+
+body{
+	margin: 0;
+	padding: 0;
+	
+}
+
+#container{
+	position: absolute;
+	width: 1350px;
+	height: 360px;
+	overflow: hidden;
+	
+	/* debug 	
+	border: 1px red solid; */
+}
+
+#container img{
+	position: absolute;
+	
+}
+
+#CricketBall{
+	
+	left: 1040px;
+	top:  134px;
+	z-index: 80;
+}
+
+#BG{
+	
+	top:0;
+	left:0;
+	z-index: 0;
+}
+
+#Slogans{
+
+	top:0;
+	left:0;
+	z-index: 50;
+}
+
+#BacketBall{
+
+	top:102px;
+	left:268px;
+	z-index: 90;
+}
+
+#BacketBall2{
+
+	top:0;
+	left:2700px;
+	z-index: 90;
+}
+
+
+#SmallBall1{
+
+	top:55px;
+	left:75px;
+	z-index: 40;
+}
+
+#SmallBall2{
+
+	top:250px;
+	left:15px;
+	z-index: 60;
+}
+
+#SmallBall3{
+
+	top:50px;
+	left:800px;
+	z-index: 10;
+}
+
+#SmallBall4{
+
+	top:260px;
+	left:908px;
+	z-index: 45;
+}
+
+#SmallBall5{
+
+	top:90px;
+	left:1795px;
+	z-index: 58;
+}
+
+
+#BloorBall{
+
+	top:17px;
+	left:990px;
+	z-index: 81;
+}
+
+
+#Volan{
+
+	top:45px;
+	left:1500px;
+	z-index: 79;
+}
+
+#Cherry{
+
+	top:190px;
+	left:1950px;
+	z-index: 65;
+}
+
+#Box{
+
+	top:240px;
+	left:2340px;
+	z-index: 66;
+}
+
+#FootBall{
+
+	top:105px;
+	left:2800px;
+	z-index: 48;
+}
